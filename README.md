@@ -1,9 +1,9 @@
 # For creating react app
 ***IN terminal type***
 ```
-npx create-react-app my-app-name
+px create-react-app my-app-name
 ```
-**it will create a folder in which your react and node prj insilised**
+** - it will create a folder in which your react and node prj insilised**
 
 
 
@@ -28,7 +28,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+- In the project directory, you can run:
 
 ### `npm start`
 
